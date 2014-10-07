@@ -1,0 +1,2 @@
+all:
+	pebble build

@@ -1,0 +1,17 @@
+{
+  "uuid": "d2518feb-c02f-456b-a8e5-c794718ca510",
+  "shortName": "bezier",
+  "longName": "bezier",
+  "companyName": "quarter",
+  "versionCode": 1,
+  "versionLabel": "1.0",
+  "watchapp": {
+    "watchface": true
+  },
+  "appKeys": {
+    "dummy": 0
+  },
+  "resources": {
+    "media": []
+  }
+}
